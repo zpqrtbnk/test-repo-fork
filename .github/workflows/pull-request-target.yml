@@ -2,7 +2,7 @@
 # Workflow: Build PR
 #
 
-name: Build PR (Organization)
+name: Build PR (Organization) BRANCH
 on: pull_request_target
 
 jobs:

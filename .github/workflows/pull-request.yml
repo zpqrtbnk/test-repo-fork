@@ -2,7 +2,7 @@
 # Workflow: Build PR
 #
 
-name: Build PR (Community)
+name: Build PR (Community) BRANCH
 on: pull_request
 
 jobs:
